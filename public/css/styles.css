@@ -1,0 +1,14 @@
+.lieu{
+    background: url(../images/icons/location-pointer.png) left 1px no-repeat;
+    padding-left: 20px;
+    margin: 10px 0;
+}
+.telephone{
+    background: url(../images/icons/call-black.svg) left center no-repeat;
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.list{
+    min-height: 160px;
+}
